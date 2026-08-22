@@ -2,7 +2,7 @@
 
 **A safety and monitoring layer for AI-powered commerce.**
 
-## The problem
+## The problem 
 
 Soon, we'll casually tell an AI, "buy me this" or "order me that," the
 way we'd ask a friend. That's convenient --- but it also means an AI
