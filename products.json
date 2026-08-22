@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p001",
+    "name": "Wireless Earbuds X1",
+    "price": 1499,
+    "currency": "INR",
+    "stock": 12,
+    "category": "electronics",
+    "description": "Bluetooth 5.3 earbuds, 24hr battery with case, ANC."
+  },
+  {
+    "id": "p002",
+    "name": "Smart Fitness Band",
+    "price": 2299,
+    "currency": "INR",
+    "stock": 8,
+    "category": "electronics",
+    "description": "Heart-rate, SpO2, sleep tracking, 7-day battery."
+  },
+  {
+    "id": "p003",
+    "name": "Mechanical Keyboard Compact",
+    "price": 3499,
+    "currency": "INR",
+    "stock": 5,
+    "category": "electronics",
+    "description": "75% layout, hot-swappable switches, USB-C."
+  },
+  {
+    "id": "p004",
+    "name": "Laptop Stand Aluminium",
+    "price": 899,
+    "currency": "INR",
+    "stock": 20,
+    "category": "accessories",
+    "description": "Adjustable height, foldable, up to 17 inch laptops."
+  },
+  {
+    "id": "p005",
+    "name": "4K Webcam Pro",
+    "price": 5999,
+    "currency": "INR",
+    "stock": 0,
+    "category": "electronics",
+    "description": "4K30fps, autofocus, built-in mic. Currently out of stock."
+  },
+  {
+    "id": "p006",
+    "name": "USB-C Hub 7-in-1",
+    "price": 1799,
+    "currency": "INR",
+    "stock": 15,
+    "category": "accessories",
+    "description": "HDMI, 2xUSB3.0, SD card, 100W PD passthrough."
+  },
+  {
+    "id": "p007",
+    "name": "Noise Cancelling Headphones",
+    "price": 8999,
+    "currency": "INR",
+    "stock": 6,
+    "category": "electronics",
+    "description": "Over-ear, 40hr battery, premium ANC."
+  },
+  {
+    "id": "p008",
+    "name": "Desk Mat XL",
+    "price": 699,
+    "currency": "INR",
+    "stock": 25,
+    "category": "accessories",
+    "description": "900x400mm, stitched edges, water resistant."
+  }
+]
