@@ -381,4 +381,4 @@ financial actions**.
 SafeCart-AI explores that idea with a simple principle:
 
 > **AI can make the purchase request. A safety layer should make sure
-> the purchase is actually safe!.**
+> the purchase is actually safe.**
